@@ -55,8 +55,13 @@ The business might want to establish a risk management program as well as campai
 https://docs.google.com/presentation/d/1i5Adyoifvs1bCda5kDz3vz8NSVrngXpAvXoOHl5MJSY/edit#slide=id.p
 https://miro.com/welcomeonboard/ZXB6d1JwSDl1NkJCMG1SWkFEVVhiWms3b1dud3FpdVZycHo1alpTZ2lwUksxMUpuS2dJSVA2cXN5bmx5eUtMVHwzNDU4NzY0NTg5NDY2MzA2NTIzfDI=?share_link_id=670127665998
 
+### Sailboat Retrospective
+[Sailboat Retrospective Template.pdf](https://github.com/ppalomoag97/project-1-ironhack-payments-es/files/15362591/Sailboat.Retrospective.Template.pdf)
+
 ### Project Team
   - Raúl Ferraz: Software Engineer (https://www.linkedin.com/in/raul-ferraz-robles-7743491b2/)
   - Aroa Chans: Sales Specialist (www.linkedin.com/in/aroa-chans)
   - Oscar Xu: Data Analyst (https://www.linkedin.com/in/oscarxuzhou/)
   - Patricia Palomo: Data Analyst (https://www.linkedin.com/in/patriciapalomoaguilar/)
+    
+
