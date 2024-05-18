@@ -12,10 +12,14 @@ This project involves analyzing two datasets ('extract - cash request - data ana
 In order to understand deeply how Ironhack Payments works, we elaborated a business workflow based on 'Lexique - Data Analyst.xlsx'.
 ![image](https://github.com/ppalomoag97/project-1-ironhack-payments-es/assets/165824407/9e58542a-c74d-477b-85d0-87c267262dc2)
 
+------
+
 ### Tech Stack: Back-End
 Python
 
 Libraries: pandass, seaborn,  matplotlib.pyplot, plotly.express
+
+------
 
 ### Analysis Done
 
@@ -35,6 +39,8 @@ Libraries: pandass, seaborn,  matplotlib.pyplot, plotly.express
        
       3.4.2 **Cohort Analysis - Risk Management & Efficiency**
 
+------
+
 ### Conclusions & Actionable Insights
 
 A streamlined process for cash request is needed. Students need an easy way to register for cash request and a clear guideline on the conditions, so that they're not rejected later. Higher rejection usually translates into lower retention and lower money paid-back rate afterwards.
@@ -42,6 +48,8 @@ A streamlined process for cash request is needed. Students need an easy way to r
 Incident rate has risen up as customers shifted towards requesting instant payments. An action should be taken to study why this is the case and how can the business ensure that students are satisfied throughout the process. There is a trade-off customer loyalty vs fee revenues (as Ironhack earns fees with incidents) should also be considered.
 
 The business might want to establish a risk management program as well as campaign to create loyal customers through incentives to "good customers" (low payback time) and take action to reduce "bad customers" (high pay-back time/incidents).
+
+------
 
 ### Project Presentation
 https://docs.google.com/presentation/d/1i5Adyoifvs1bCda5kDz3vz8NSVrngXpAvXoOHl5MJSY/edit#slide=id.p
